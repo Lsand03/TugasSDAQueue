@@ -29,7 +29,7 @@ public class tugasQueue1 {
             menu=input.nextInt();
             if(menu==1){
                 System.out.println("\t==============================");
-                System.out.print("\tMasukan nama      : ");
+                System.out.print("\tMasukan Nama Pengantri     : ");
                 masukan = str.nextLine();
                 name.add(masukan);
                 System.out.print("\n\n");
